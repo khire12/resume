@@ -1,0 +1,113 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >>
+endobj
+4 0 obj
+<< /Length 6357 >>
+stream
+BT /F2 22.00 Tf 50.00 748.00 Td (SARVESH KHIRE) Tj ET
+BT /F1 11.00 Tf 50.00 724.00 Td (Analytics Engineer) Tj ET
+BT /F1 9.50 Tf 50.00 710.00 Td (San Diego, CA | +1 \(858\) 319-6427 | sarveshkhire@gmail.com | linkedin.com/in/sarveshkhire | github.com/khire12) Tj ET
+1.00 w 50.00 698.00 m 562.00 698.00 l S
+BT /F2 10.00 Tf 50.00 684.00 Td (SUMMARY) Tj ET
+0.60 w 50.00 677.00 m 562.00 677.00 l S
+BT /F1 10.00 Tf 50.00 667.00 Td (Analytics Engineer with ~4 years of experience building scalable ELT pipelines, dbt semantic layers, and GTM) Tj ET
+BT /F1 10.00 Tf 50.00 654.50 Td (analytics on Snowflake. Proven record of partnering with Sales Operations, RevOps, and leadership to deliver trusted) Tj ET
+BT /F1 10.00 Tf 50.00 642.00 Td (KPI definitions, faster model runtimes, and decision-ready forecasting datasets.) Tj ET
+BT /F2 10.00 Tf 50.00 627.50 Td (CORE SKILLS) Tj ET
+0.60 w 50.00 620.50 m 562.00 620.50 l S
+BT /F1 9.80 Tf 50.00 610.50 Td (Warehousing and Modeling: Snowflake, dbt, SQL, Jinja, dimensional modeling, semantic layer design) Tj ET
+BT /F1 9.80 Tf 50.00 596.50 Td (Pipelines and Orchestration: Airflow, Snowpipe, Reverse ETL, data quality validation, observability) Tj ET
+BT /F1 9.80 Tf 50.00 582.50 Td (Programming and Systems: Python, Snowpark, PySpark, Postgres, GitHub Actions \(CI/CD\), AWS S3, Azure) Tj ET
+BT /F1 9.80 Tf 50.00 568.50 Td (Analytics and GTM: Salesforce CRM, Sigma, Tableau, ThoughtSpot, Streamlit, forecasting and compensation metrics) Tj ET
+BT /F2 10.00 Tf 50.00 554.50 Td (EXPERIENCE) Tj ET
+0.60 w 50.00 547.50 m 562.00 547.50 l S
+BT /F2 10.60 Tf 50.00 537.50 Td (Snowflake, Inc.) Tj ET
+BT /F1 9.40 Tf 432.09 537.50 Td (Dublin, CA | Jan 2024 - Present) Tj ET
+BT /F3 9.80 Tf 50.00 524.50 Td (Analytics Engineer II) Tj ET
+BT /F1 9.80 Tf 52.00 513.50 Td (-) Tj ET
+BT /F1 9.80 Tf 62.00 513.50 Td (Architected enterprise GTM data models on Snowflake to support hierarchical sales reporting and standardized KPI) Tj ET
+BT /F1 9.80 Tf 62.00 501.50 Td (definitions.) Tj ET
+BT /F1 9.80 Tf 52.00 489.50 Td (-) Tj ET
+BT /F1 9.80 Tf 62.00 489.50 Td (Re-designed the sales hierarchy dbt model using SQL optimization and staging layers, reducing build time from 20-30) Tj ET
+BT /F1 9.80 Tf 62.00 477.50 Td (minutes to ~5 minutes.) Tj ET
+BT /F1 9.80 Tf 52.00 465.50 Td (-) Tj ET
+BT /F1 9.80 Tf 62.00 465.50 Td (Built a single source-of-truth opportunities model for bookings and pipeline used across multiple teams for planning and) Tj ET
+BT /F1 9.80 Tf 62.00 453.50 Td (executive reporting.) Tj ET
+BT /F1 9.80 Tf 52.00 441.50 Td (-) Tj ET
+BT /F1 9.80 Tf 62.00 441.50 Td (Delivered rep-level forecasting datasets by integrating Salesforce pipeline and projected revenue, improving visibility) Tj ET
+BT /F1 9.80 Tf 62.00 429.50 Td (into attainment risk.) Tj ET
+BT /F1 9.80 Tf 52.00 417.50 Td (-) Tj ET
+BT /F1 9.80 Tf 62.00 417.50 Td (Partnered with Sales Operations to build compensation analytics for Sales, Sales Engineering, Partner, and Overlay) Tj ET
+BT /F1 9.80 Tf 62.00 405.50 Td (roles with consistent scorecards.) Tj ET
+BT /F1 9.80 Tf 52.00 393.50 Td (-) Tj ET
+BT /F1 9.80 Tf 62.00 393.50 Td (Designed Reverse ETL workflows that enriched account context in Salesforce from multiple upstream sources,) Tj ET
+BT /F1 9.80 Tf 62.00 381.50 Td (improving CRM usability and GTM execution.) Tj ET
+BT /F2 10.60 Tf 50.00 366.50 Td (Snowflake, Inc.) Tj ET
+BT /F1 9.40 Tf 406.49 366.50 Td (San Mateo, CA | Jun 2023 - Sep 2023) Tj ET
+BT /F3 9.80 Tf 50.00 353.50 Td (Analytics Engineer Intern) Tj ET
+BT /F1 9.80 Tf 52.00 342.50 Td (-) Tj ET
+BT /F1 9.80 Tf 62.00 342.50 Td (Developed a Streamlit observability dashboard for Reverse ETL jobs, improving operational visibility and) Tj ET
+BT /F1 9.80 Tf 62.00 330.50 Td (troubleshooting speed.) Tj ET
+BT /F1 9.80 Tf 52.00 318.50 Td (-) Tj ET
+BT /F1 9.80 Tf 62.00 318.50 Td (Created parameterized dbt models with Jinja macros to increase reuse and scalability of SQL transformations.) Tj ET
+BT /F2 10.60 Tf 50.00 303.50 Td (Snowflake, Inc.) Tj ET
+BT /F1 9.40 Tf 422.67 303.50 Td (Pune, India | Jan 2021 - Aug 2022) Tj ET
+BT /F3 9.80 Tf 50.00 290.50 Td (Data Engineer I \(Analytics Engineering\)) Tj ET
+BT /F1 9.80 Tf 52.00 279.50 Td (-) Tj ET
+BT /F1 9.80 Tf 62.00 279.50 Td (Built Airflow + dbt ELT pipelines to monitor Salesforce platform health and resource utilization for GTM operations.) Tj ET
+BT /F1 9.80 Tf 52.00 267.50 Td (-) Tj ET
+BT /F1 9.80 Tf 62.00 267.50 Td (Implemented metrics dashboards for HR, Support, and IT teams to track performance and system stability in near real) Tj ET
+BT /F1 9.80 Tf 62.00 255.50 Td (time.) Tj ET
+BT /F1 9.80 Tf 52.00 243.50 Td (-) Tj ET
+BT /F1 9.80 Tf 62.00 243.50 Td (Automated weekly Sales Engineering reporting with dbt snapshots and Snowflake workflows, reducing manual) Tj ET
+BT /F1 9.80 Tf 62.00 231.50 Td (reporting effort.) Tj ET
+BT /F1 9.80 Tf 52.00 219.50 Td (-) Tj ET
+BT /F1 9.80 Tf 62.00 219.50 Td (Implemented CI/CD pipelines via GitHub Actions for SQL and Python to improve release consistency and reduce) Tj ET
+BT /F1 9.80 Tf 62.00 207.50 Td (production defects.) Tj ET
+BT /F1 9.80 Tf 52.00 195.50 Td (-) Tj ET
+BT /F1 9.80 Tf 62.00 195.50 Td (Built Snowpipe ingestion from AWS S3 to Snowflake to accelerate data availability for analytics workloads.) Tj ET
+BT /F1 9.80 Tf 52.00 183.50 Td (-) Tj ET
+BT /F1 9.80 Tf 62.00 183.50 Td (Monitored and optimized Airflow DAG performance with custom dashboards to maintain high pipeline reliability.) Tj ET
+BT /F1 9.80 Tf 52.00 171.50 Td (-) Tj ET
+BT /F1 9.80 Tf 62.00 171.50 Td (Integrated PagerDuty on-call schedules with Slack for faster incident routing and escalation.) Tj ET
+BT /F2 10.00 Tf 50.00 156.50 Td (EDUCATION) Tj ET
+0.60 w 50.00 149.50 m 562.00 149.50 l S
+BT /F1 9.80 Tf 50.00 139.50 Td (University of California, San Diego - M.S. in Data Science, Dec 2023 \(GPA: 4.00/4.00\)) Tj ET
+BT /F1 9.80 Tf 50.00 125.50 Td (Savitribai Phule Pune University - B.E. in Computer Science, Apr 2020 \(GPA: 3.75/4.00\)) Tj ET
+BT /F2 10.00 Tf 50.00 111.50 Td (CERTIFICATIONS AND AWARDS) Tj ET
+0.60 w 50.00 104.50 m 562.00 104.50 l S
+BT /F1 9.80 Tf 50.00 94.50 Td (SnowPro Core Certification \(2022\) | Salesforce Certified Administrator \(2022\)) Tj ET
+BT /F1 9.80 Tf 50.00 80.50 Td (Excellence in Academic Achievement Award, UC San Diego \(2024\) | Winner, Smart India Hackathon \(2019\)) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 6 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Type /Pages /Count 1 /Kids [5 0 R] >>
+endobj
+7 0 obj
+<< /Type /Catalog /Pages 6 0 R >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000079 00000 n 
+0000000154 00000 n 
+0000000232 00000 n 
+0000006641 00000 n 
+0000006787 00000 n 
+0000006844 00000 n 
+trailer
+<< /Size 8 /Root 7 0 R >>
+startxref
+6893
+%%EOF
