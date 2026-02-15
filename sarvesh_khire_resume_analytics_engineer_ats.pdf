@@ -1,15 +1,21 @@
 %PDF-1.4
+%‚„œ”
 1 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
 endobj
 2 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+<<
+/Producer (PyPDF2)
+>>
 endobj
 3 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >>
-endobj
-4 0 obj
-<< /Length 6357 >>
+<<
+/Length 6361
+>>
 stream
 BT /F2 22.00 Tf 50.00 748.00 Td (SARVESH KHIRE) Tj ET
 BT /F1 11.00 Tf 50.00 724.00 Td (Analytics Engineer) Tj ET
@@ -29,7 +35,7 @@ BT /F1 9.80 Tf 50.00 568.50 Td (Analytics and GTM: Salesforce CRM, Sigma, Tablea
 BT /F2 10.00 Tf 50.00 554.50 Td (EXPERIENCE) Tj ET
 0.60 w 50.00 547.50 m 562.00 547.50 l S
 BT /F2 10.60 Tf 50.00 537.50 Td (Snowflake, Inc.) Tj ET
-BT /F1 9.40 Tf 432.09 537.50 Td (Dublin, CA | Jan 2024 - Present) Tj ET
+BT /F1 9.40 Tf 432.09 537.50 Td (Menlo Park, CA | Jan 2024 - Present) Tj ET
 BT /F3 9.80 Tf 50.00 524.50 Td (Analytics Engineer II) Tj ET
 BT /F1 9.80 Tf 52.00 513.50 Td (-) Tj ET
 BT /F1 9.80 Tf 62.00 513.50 Td (Architected enterprise GTM data models on Snowflake to support hierarchical sales reporting and standardized KPI) Tj ET
@@ -87,27 +93,65 @@ BT /F1 9.80 Tf 50.00 94.50 Td (SnowPro Core Certification \(2022\) | Salesforce 
 BT /F1 9.80 Tf 50.00 80.50 Td (Excellence in Academic Achievement Award, UC San Diego \(2024\) | Winner, Smart India Hackathon \(2019\)) Tj ET
 endstream
 endobj
+4 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 8 0 R
+/F2 7 0 R
+/F3 6 0 R
+>>
+>>
+/Contents 3 0 R
+>>
+endobj
 5 0 obj
-<< /Type /Page /Parent 6 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R >> >> /Contents 4 0 R >>
+<<
+/Type /Catalog
+/Pages 1 0 R
+>>
 endobj
 6 0 obj
-<< /Type /Pages /Count 1 /Kids [5 0 R] >>
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Oblique
+>>
 endobj
 7 0 obj
-<< /Type /Catalog /Pages 6 0 R >>
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
 endobj
 xref
-0 8
+0 9
 0000000000 65535 f 
-0000000009 00000 n 
-0000000079 00000 n 
-0000000154 00000 n 
-0000000232 00000 n 
-0000006641 00000 n 
-0000006787 00000 n 
-0000006844 00000 n 
+0000000015 00000 n 
+0000000074 00000 n 
+0000000114 00000 n 
+0000006527 00000 n 
+0000006675 00000 n 
+0000006724 00000 n 
+0000006802 00000 n 
+0000006877 00000 n 
 trailer
-<< /Size 8 /Root 7 0 R >>
+<<
+/Size 9
+/Root 5 0 R
+/Info 2 0 R
+>>
 startxref
-6893
+6947
 %%EOF
