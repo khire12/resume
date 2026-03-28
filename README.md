@@ -19,7 +19,7 @@ Published URL:
 - `styles.css`
 - `script.js`
 - `favicon.svg`
-- `sarvesh_khire_resume_analytics_engineer_ats.pdf`
+- `sarvesh_khire_resume_analytics_engineer.pdf`
 
 ### 3) Push Commands
 ```bash
